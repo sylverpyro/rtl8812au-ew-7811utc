@@ -1,2 +1,5 @@
-# rtl8812au-ew-7811utc
-Hacked version of the rtl8812au 4.3.14 driver to include the EW-7811UTC USB identifier
+# rtl8812au_rtl8821au
+Driver for rtl8812au and rtl8821au (rtl8811au) based on Realtek's 4.3.14 version
+
+##Arch Linux port
+https://aur.archlinux.org/packages/rtl8812au_rtl8821au-dkms-git
